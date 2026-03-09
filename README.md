@@ -23,4 +23,4 @@ Identificar las variables críticas que influyen en la decisión de los clientes
 * Existe una correlación directa entre cargos mensuales elevados y la decisión de cancelar el servicio.
 
 ---
-📫 **Contacto:** [Tu Nombre o Usuario de GitHub]
+📫 **Contacto:** Emilio Mauricio Ortega Salazar
